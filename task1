@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+
+<html>
+
+      <head>
+
+            
+
+            <meta name="viewport" content="width=device-width,initial-scale=1">
+
+            <title>九宫格</title>
+
+            <head><style type="text/css">
+
+      
+
+div{
+
+      float: left;
+
+      width: 10%;
+
+      padding-bottom: 10%;
+
+      float: left;
+
+      background: orange;
+
+      border-radius: 25%;
+
+      margin: 0.5%
+
+    
+
+      
+
+}
+
+#aaa{clear: left;}
+
+#bbb{clear: left;}
+
+#ccc{clear: left;}
+
+<head>
+
+</style>
+
+</head>
+
+<body>
+
+<div id="ccc" >
+
+</div>
+
+<div >
+
+</div>
+
+<div >
+
+</div>
+
+<div  id="aaa">
+
+</div>
+
+<div >
+
+</div>
+
+<div >
+
+</div>
+
+<div id ="bbb">
+
+</div>
+
+<div >
+
+</div>
+
+<div >
+
+</div>
+
+
+
+
+</body>
+
+</html>
